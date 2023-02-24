@@ -1,1 +1,7 @@
-wichtige Informationen
+# Wichtige Begriffe
+* commit = wichtige änderung am code
+* branch = zweig beim programmcode für änderungen/updates, wird merge in hauptzweig (mainU/master) übernommen
+* push = updates vom server herunterziehen
+* pull = updates vom server hochladen
+* push request = updates auf fremdes git-repository anfragen
+* fork = kopien des coes als eigenes git repository
