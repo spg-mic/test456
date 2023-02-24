@@ -5,3 +5,5 @@
 * pull = updates vom server hochladen
 * push request = updates auf fremdes git-repository anfragen
 * fork = kopien des coes als eigenes git repository
+
+in readme verschoben 
