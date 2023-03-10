@@ -15,3 +15,9 @@
 * pull = updates vom server hochladen
 * push request = updates auf fremdes git-repository anfragen
 * fork = kopien des coes als eigenes git repository
+
+
+
+Alles ziemlich scheiße tbh...
+(Cooler Pelikan btw)
+Kosten für die anschauung: 4,20€
